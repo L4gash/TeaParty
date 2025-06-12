@@ -13,6 +13,7 @@ TeaParty is a console-based tool for searching, compressing, and exfiltrating fi
 - Interactive input or CLI arguments
 - Hash-based cache to avoid duplicates
 
+Remember always use -h options to see more details
 ## Usage
 
 ```bash

